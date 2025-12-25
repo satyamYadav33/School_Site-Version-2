@@ -1,0 +1,8 @@
+{
+  "name": "S.G.N International School Portal",
+  "description": "A premium, modern web application for S.G.N International School, featuring 3D elements, dynamic cursors, and AI-driven school assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
